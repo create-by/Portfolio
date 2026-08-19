@@ -311,4 +311,3 @@ torch.logical_not(bool_a):
  tensor([[False,  True],
         [False, False]])
 # run
-
