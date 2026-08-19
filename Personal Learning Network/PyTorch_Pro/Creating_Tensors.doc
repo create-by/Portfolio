@@ -2,6 +2,7 @@
 data_list = [[1, 2], [3, 4]]
 tensor_from_list = torch.tensor(data_list)
 
+
 print("Tensor from list:")
 print(tensor_from_list)
 print(f"Data type: {tensor_from_list.dtype}")
